@@ -1,4 +1,5 @@
-## Caracteristicas
+## Características
 - Aprendiendo Git paso a paso
-  ## Última actualización
-  Editado desde GitHub web interface
+- Añadir información del proyecto
+## Última actualización
+Editado desde GitHub web interface
